@@ -7,5 +7,5 @@ This is a Python-based Remote Access Trojan. Following is a step by step procedu
 5. Start entering CLI commands to execute on his computer.
 6. To get a file from his computer to yours, use a keyword 'getfile' and then specify the file path. For example: getfile C:\Users\Test.txt
 
-*Note*
+*Note:*
 This project is educational based and should not be used to harm or steal information from anyone without their consent.
